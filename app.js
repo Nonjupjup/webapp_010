@@ -1,10 +1,3 @@
-
-app1.js
-หน้า
-1
-/
-1
-100%
 // เรียกใช้งาน Express Framework
 // ใช้สำหรับสร้าง Web Server
 const express = require('express');
